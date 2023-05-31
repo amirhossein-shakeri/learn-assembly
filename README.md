@@ -1,2 +1,2 @@
-# learn-assembly
+# Learning Assembly
 This is where I learn assembly
